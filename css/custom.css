@@ -1,0 +1,26 @@
+/* Native Elements */
+img{
+	border: 10px solid #00ace6;
+}
+p{
+	text-align: justify;
+}
+
+/*Main Wrappers*/
+.content-wrapper{
+	background-color: #ccf2ff
+
+}
+.content-subwrapper{
+	background-color: #33ccff;
+	margin: 10px 0 10px 0;
+}
+
+/*Individual Styling*/
+.myname{
+	text-align: center;
+}
+
+.desc-text{
+	background-color: #00ace6;
+}
